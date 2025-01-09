@@ -39,7 +39,7 @@ const UserDetailsForm = () => {
 
   return (
     <div className="container mt-5">
-      <h1 className="text-center mb-4">User Details Form</h1>
+      <h1 className="text-center mb-4">User Details Form Demo</h1>
       <div className="row justify-content-center">
         <div className="col-md-6">
           <Formik
